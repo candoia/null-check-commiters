@@ -1,0 +1,16 @@
+{
+  "name": "null-check-commiter",
+  "productName": "Null Check Commiter",
+  "version": "0.1.1",
+  "author": "Nitin Mukesh Tiwari <nmtiwari@iastate.edu>",
+  "description": "Displays the names of developer who fix null checks.",
+  "main": "main.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/candoia/null-check-commiters"
+  },
+  "icon": {
+  	"type": "fa",
+  	"name": "pie-chart"
+  }
+}
